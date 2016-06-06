@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MassiveXOv1.0</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="how_to_play_title">How to Play</string>
+    <string name="how_to_play_text">Think of winning among nine mini tictactoe games from the board that should make a bigger tictactoe</string>
+    <string name="about_title">About Makers</string>
+    <string name="about_text"> A small group of PICT students bored of playing conventional games in lectures, try a new and innovative way to get rid of boredom. 
+    </string>
+
+    <string name="settings_label">Settings</string>
+    <string name="undo">Undo</string>
+    <string name="settings_shortcut">s</string>
+
+
+
+    <string name="game_title">Game</string>
+    <string name="do_you_want_to_play_again_">Do you want to Play Again?</string>
+    <string name="play_again">Play Again</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="list_visible_devices">List Visible Devices</string>
+    <string name="make_device_discoverable">Make Device Discoverable</string>
+    <string name="how_to_play_">How \n To \n Play?</string>
+    <string name="about_us">About Us !!</string>
+    <string name="exit">EXIT</string>
+    <string name="new_game">New Game</string>
+    <string name="finish">Finish</string>
+    <string name="by_nitesh_sarode">by Nitesh Sarode</string>
+    <string name="next">Next</string>
+    <string name="a_drawn_grid_is_considered_as_neither_apos_x_apos_nor_apos_o_apos_n_a_player_wins_if_there_are_three_continuous_grids_which_he_has_won_i_e_3_apos_x_apos_s_or_3_apos_o_apos_s">A drawn grid is considered as neither \'X\' nor \'O\'. \n\n A player wins if there are three continuous grids which he has won i.e 3\'X\'s or 3\'O\'s</string>
+    <string name="additional_tips">Additional Tips</string>
+    <string name="enjoy_the_game_">Enjoy the GAME !!!</string>
+
+</resources>

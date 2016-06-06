@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/finish"
+        android:title="@string/finish"
+        android:showAsAction="ifRoom"/>
+</menu>
+<!-- From: file:/F:/newttt/MassiveXOv1.0/app/src/main/res/menu/menu2.xml -->

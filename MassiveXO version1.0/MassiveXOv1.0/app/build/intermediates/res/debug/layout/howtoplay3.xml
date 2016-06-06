@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#BCD2EE"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvaddtips"
+        android:layout_marginTop="30dp"
+        android:gravity="fill_horizontal"
+        android:text="@string/a_drawn_grid_is_considered_as_neither_apos_x_apos_nor_apos_o_apos_n_a_player_wins_if_there_are_three_continuous_grids_which_he_has_won_i_e_3_apos_x_apos_s_or_3_apos_o_apos_s"
+        android:textColor="#000"
+        android:textSize="23sp" />
+
+    <TextView
+        android:id="@+id/tvaddtips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/additional_tips"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp"
+        android:text="@string/enjoy_the_game_"
+        android:textColor="#EE2C2C"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</RelativeLayout><!-- From: file:/F:/newttt/MassiveXOv1.0/app/src/main/res/layout/howtoplay3.xml -->

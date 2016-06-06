@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <corners android:radius="10dp" />
+
+    <gradient
+        android:centerX="35%"
+        android:centerY="50%"
+        android:endColor="#000000"
+        android:gradientRadius="100"
+        android:startColor="#95E807"
+        android:type="radial" />
+
+    <padding
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp" />
+
+    <size
+        android:height="60dp"
+        android:width="270dp" />
+
+    <stroke
+        android:width="2dp"
+        android:color="#5C92FF" />
+
+</shape><!-- From: file:/F:/newttt/MassiveXOv1.0/app/src/main/res/drawable/buttonshape.xml -->
